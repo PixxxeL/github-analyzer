@@ -1,4 +1,4 @@
-# Тестовое задание на позицию Python Programmer в Playrix
+# Тестовое задание на позицию Python Programmer
 
 ## Суть задания
 
